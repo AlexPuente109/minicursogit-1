@@ -1,0 +1,10 @@
+git init <- Inicia el git en la carpeta en la que se encuentra la terminal
+git status <- Ver el status de los archivos que se encuentra en la carpeta.
+git commit -m "descripcion" <- realiza los cambios en los archivos (cambios realizados)
+
+git config --global user.name "Nombre" <- Indico a git el nombre del usuario que realiza los cambios
+
+git config --global user.email "email" <- Indico a git el correo del usuario que está realizando los commit.
+
+gti log --online <- Enlista todos los commit realizados hasta el momento.
+
