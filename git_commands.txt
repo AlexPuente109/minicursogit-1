@@ -8,3 +8,5 @@ git config --global user.email "email" <- Indico a git el correo del usuario que
 
 git log --oneline <- Enlista todos los commit realizados hasta el momento.
 
+git reset hard {id commit} <- con git log --oneline se muestran los id's de cada commit y ese id va dentro de este comando para poder seleccionar en cual de los últimos cambios se desea estar.
+
