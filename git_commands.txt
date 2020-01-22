@@ -6,5 +6,5 @@ git config --global user.name "Nombre" <- Indico a git el nombre del usuario que
 
 git config --global user.email "email" <- Indico a git el correo del usuario que está realizando los commit.
 
-git log --online <- Enlista todos los commit realizados hasta el momento.
+git log --oneline <- Enlista todos los commit realizados hasta el momento.
 
